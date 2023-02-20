@@ -29,3 +29,7 @@ function chislo(num){
 chislo(6);
 
 // zadacha 5
+function kvadratChisla(x){
+  console.log(x ** 2);
+}
+kvadratChisla(4);
