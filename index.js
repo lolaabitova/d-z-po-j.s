@@ -121,4 +121,7 @@ let cifry =  ["one", "two", "three"] ;
 let cifry1 = cifry.reverse();
 console.log(cifry1);
 //  zadacha 19
-
+let imena =["Lola", "Yana", "Oksana", "Kahraman"]
+for (let imya of imena){
+console.log("Hello " + imya);
+}
