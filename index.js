@@ -125,3 +125,4 @@ let imena =["Lola", "Yana", "Oksana", "Kahraman"]
 for (let imya of imena){
 console.log("Hello " + imya);
 }
+// zadacha 20
