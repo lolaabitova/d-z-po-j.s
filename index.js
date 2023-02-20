@@ -131,3 +131,6 @@ for (let chisla of kvadratchisel){
   console.log(chisla ** 2);
 }
 
+// zadacha 21
+
+
