@@ -116,3 +116,4 @@ for (let i = 0; i< massiv1.length; i++){
   a = a + massiv1[i] + " ";
 }
 console.log(a);
+// zadacha 18
