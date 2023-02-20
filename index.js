@@ -126,3 +126,8 @@ for (let imya of imena){
 console.log("Hello " + imya);
 }
 // zadacha 20
+let kvadratchisel = [2, 3,4,5];
+for (let chisla of kvadratchisel){
+  console.log(chisla ** 2);
+}
+
