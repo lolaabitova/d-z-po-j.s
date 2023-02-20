@@ -11,3 +11,8 @@ function konus(height, radius){
 }
 konus(10 ,5);
 // zadacha 3
+function dlinaStroki(x){
+  console.log(x.length);
+}
+dlinaStroki("lola");
+dlinaStroki("Mama myla ramu");
