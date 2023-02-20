@@ -95,3 +95,5 @@ for(let i = 0; i < array.length; i++){
 console.log(sum);
 }
 arraySum(arr);
+
+// zadacha 16
