@@ -84,3 +84,4 @@ let massiv = ["lola", "Karakol", "Bishkek"]
 massiv.push ("Imya", "gorod", "vozrast");
 massiv.unshift("dobavili", "elementy")
 console.log(massiv);
+// zadacha 15
