@@ -47,3 +47,5 @@ perimetr(5, 5, 6, 9, 4);
 for (let i = 0; i <= 33; i += 3) {
   console.log(i);
 }
+
+// zadacha 9
