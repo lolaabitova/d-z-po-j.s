@@ -33,3 +33,4 @@ function kvadratChisla(x){
   console.log(x ** 2);
 }
 kvadratChisla(4);
+// zadacha 6
