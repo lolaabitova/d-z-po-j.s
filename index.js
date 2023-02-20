@@ -110,3 +110,9 @@ console.log(sum);
 }
 arraySumchet(arrChet);
 // zadacha 17
+let massiv1 = ["I", "like", "to", "eat!"]
+let a = "";
+for (let i = 0; i< massiv1.length; i++){
+  a = a + massiv1[i] + " ";
+}
+console.log(a);
