@@ -26,3 +26,6 @@ function chislo(num){
     console.log("Chislo " + num + " nechetnoe")
   }
 }
+chislo(6);
+
+// zadacha 5
