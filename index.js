@@ -18,3 +18,11 @@ dlinaStroki("lola");
 dlinaStroki("Mama myla ramu");
 
 // zadacha 4
+function chislo(num){
+  if (num % 2 === 0){
+    console.log("Chislo " + num + " chetnoe");
+  }
+  else {
+    console.log("Chislo " + num + " nechetnoe")
+  }
+}
