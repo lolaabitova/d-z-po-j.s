@@ -61,3 +61,4 @@ console.log("Zadacha #10, kvadraty chisel ot 1 do 10");
 for (let i = 0; i <= 10; i ++) {
   console.log(i ** 2);
 }
+// zadacha 11
