@@ -34,3 +34,7 @@ function kvadratChisla(x){
 }
 kvadratChisla(4);
 // zadacha 6
+function koren(x){
+  console.log(x **(1 / 2));
+}
+koren(16);
