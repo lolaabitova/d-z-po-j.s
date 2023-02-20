@@ -132,5 +132,8 @@ for (let chisla of kvadratchisel){
 }
 
 // zadacha 21
-
+let animals = ["cat", "dog", "snake"];
+let i = animals.includes("cat");
+let b = animals.includes("parrot")
+console.log("cat - " + i,"parrot - " + b);
 
