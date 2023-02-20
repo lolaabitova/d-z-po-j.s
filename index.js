@@ -62,3 +62,8 @@ for (let i = 0; i <= 10; i ++) {
   console.log(i ** 2);
 }
 // zadacha 11
+let sum = 0;
+for (let i = 1; i <= 25; i ++) {
+  sum += i;
+}
+console.log(sum);
