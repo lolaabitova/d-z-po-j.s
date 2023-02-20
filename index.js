@@ -16,3 +16,5 @@ function dlinaStroki(x){
 }
 dlinaStroki("lola");
 dlinaStroki("Mama myla ramu");
+
+// zadacha 4
