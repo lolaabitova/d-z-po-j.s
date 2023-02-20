@@ -44,3 +44,6 @@ function perimetr(a, b, c, d, e){
 }
 perimetr(5, 5, 6, 9, 4);
 // zadacha 8
+for (let i = 0; i <= 33; i += 3) {
+  console.log(i);
+}
