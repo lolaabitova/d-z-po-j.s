@@ -38,3 +38,4 @@ function koren(x){
   console.log(x **(1 / 2));
 }
 koren(16);
+// zadacha 7
