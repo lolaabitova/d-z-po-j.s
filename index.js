@@ -49,3 +49,14 @@ for (let i = 0; i <= 33; i += 3) {
 }
 
 // zadacha 9
+let result = 1;
+let n = 1;
+while(n <= 8){
+    result *= n++;
+}
+console.log(result);
+//  zadacha 10
+console.log("Zadacha #10, kvadraty chisel ot 1 do 10");
+for (let i = 0; i <= 10; i ++) {
+  console.log(i ** 2);
+}
