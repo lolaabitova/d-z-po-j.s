@@ -84,4 +84,14 @@ let massiv = ["lola", "Karakol", "Bishkek"]
 massiv.push ("Imya", "gorod", "vozrast");
 massiv.unshift("dobavili", "elementy")
 console.log(massiv);
+
 // zadacha 15
+let arr = [4, 2, 5, 6];
+function arraySum(array){
+let sum = 0;
+for(let i = 0; i < array.length; i++){
+    sum += array[i];
+    }
+console.log(sum);
+}
+arraySum(arr);
