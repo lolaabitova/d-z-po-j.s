@@ -109,3 +109,4 @@ for(let i = 0; i < array.length; i++){
 console.log(sum);
 }
 arraySumchet(arrChet);
+// zadacha 17
