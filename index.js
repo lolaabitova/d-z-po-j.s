@@ -80,3 +80,7 @@ for (let i = 1; i <= 15; i ++) {
   }
 }
 // zadacha 14
+let massiv = ["lola", "Karakol", "Bishkek"]
+massiv.push ("Imya", "gorod", "vozrast");
+massiv.unshift("dobavili", "elementy")
+console.log(massiv);
