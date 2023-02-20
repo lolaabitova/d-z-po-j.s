@@ -117,3 +117,6 @@ for (let i = 0; i< massiv1.length; i++){
 }
 console.log(a);
 // zadacha 18
+let cifry =  ["one", "two", "three"] ;
+    let cifry1 = cifry.reverse();
+    console.log(cifry1);
